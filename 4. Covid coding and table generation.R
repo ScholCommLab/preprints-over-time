@@ -11,6 +11,8 @@
 # Related Publication:
 # Fleerackers, A., Shores, K., Chtena, N. & Alperin, J.P. (2023). Unreviewed science in the news: The evolution of preprint media coverage from 2014-2021. *bioarxiv*. 
 # 
+# Related Dataset:
+# Alperin, J. P., Fleerackers, A., & Shores, K. (2023). Data for: Unreviewed science in the news [Data set]. Harvard Dataverse. https://doi.org/10.7910/DVN/ZHQUFD
 #
 ## Code for "Unreviewed science in the news: The evolution of preprint media coverage from 2014-2021"
 #
